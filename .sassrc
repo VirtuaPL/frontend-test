@@ -1,0 +1,7 @@
+{
+  "includePaths": ["node_modules"],
+  outputStyle: "compressed",
+  "plugins": {
+    "autoprefixer": true
+  }
+}

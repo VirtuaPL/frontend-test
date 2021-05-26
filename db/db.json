@@ -1,0 +1,10 @@
+{
+  "subscribers": [
+    {
+      "email": "test@test.pl",
+      "gender": "female",
+      "pp-check": "on",
+      "id": 1
+    }
+  ]
+}

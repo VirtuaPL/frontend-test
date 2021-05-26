@@ -1,0 +1,8 @@
+// Tips:
+// Use FontsAwesome css classes as icons assets, ex. i.fas.fa-times
+// Use variable values to grab img src values
+- var values = ['nature', 'computer', 'people', 'fashion', 'science', 'animals', 'space'];
+section.slider-wrapper
+  .slider
+    each val in values.length ? values : ['There are no values']
+      img(src="https://source.unsplash.com/featured/1200x900?"+val alt=val loading="lazy")

@@ -1,0 +1,11 @@
+# Build output
+dist/
+.cache/
+.parcel-cache/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log*
