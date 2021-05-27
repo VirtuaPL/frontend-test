@@ -59,7 +59,7 @@ Add simple **HTML5** and **JS** validation to your newsletter form you just crea
 
 ### Task 3 - Requests Mock
 
-By following task you should like to create an API mocks to simulate saving and checking database records.
+By following task you should create an API mocks to simulate saving and checking database records.
 
 We encourage to use **json-server** package but you can install and setup whatever you want. Find out documentation here https://github.com/typicode/json-server
 
